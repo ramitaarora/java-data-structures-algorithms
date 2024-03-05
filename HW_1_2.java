@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Homework_1_2 {
+public class HW_1_2 {
     public static void main(String[] args) {
         MinStack obj = new MinStack();
         obj.push(12);
