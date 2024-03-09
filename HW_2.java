@@ -9,7 +9,9 @@ public class HW_2 {
 
 class Solution {
 
-    //public int[] getIndices(int[] nums, int target) {
-        // YOUR CODE HERE
-    //}
+    public Solution() {}
+
+    public int[] getIndices(int[] nums, int target) {
+        return null;
+    }
 }
