@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class HW_1_1 {    
+public class HW1_1 {    
     public static void main(String[] args) {
        // Your main() is not graded so you can
        // have any implementation in this area, e.g.,

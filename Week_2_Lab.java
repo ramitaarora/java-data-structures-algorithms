@@ -1,4 +1,4 @@
-public class HW_2 {
+public class Week_2_Lab {
     int[] temperatures = new int[] {4,5,6,7,8};
 
     public static void main(String[] args) {
