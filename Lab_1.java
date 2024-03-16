@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Week_2_Lab {
+public class Lab_1 {
 
     public static void main(String[] args) {
         int[] temperatures = new int[] {4,5,6,7,8};
